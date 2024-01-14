@@ -8,4 +8,4 @@
 
 text = input()
 numberofwords = text.count( " ") + 1
-print(numberofwords)
+print( "Total of words in your text is" + " " +str(numberofwords))
