@@ -3,7 +3,7 @@
 
 # Looking just at the last four digits, these properties are:
 
-#    the first of these four digits is an 8 or 9 ;
+#    the first of these four digits is an 8 or 9;
 #    the last digit is an 8 or 9 ;
 #    the second and third digits are the same.
 
